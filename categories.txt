@@ -1,0 +1,14 @@
+0,reserved
+1,beverages
+2,bread/bakery
+3,canned/jarred goods
+4,cereal
+5,dairy
+6,dry/baking
+7,frozen food
+8,household
+9,meat
+10,personal care
+11,produce
+12,snacks
+13,other
